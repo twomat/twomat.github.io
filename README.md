@@ -17,7 +17,7 @@
  
 </div>
 
-<div id="body">
+
 ---
  ### :hammer_and_wrench: Languages: 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -43,4 +43,4 @@
   <a href="https://linkedin.com/in/alexey-smirnov-73578034a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   </div>
-  </div>
+
