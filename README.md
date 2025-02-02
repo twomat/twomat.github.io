@@ -1,6 +1,23 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZhend1OTMyZzNndHUyNzFhcnhkZ253cTlsdHhuajZnMjUyZWViaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jnE30eFmv6DvXUHUOs/giphy.gif"/>
 
+### All websites can be accessed via these links:
+
+<a href="https://twomat.github.io/Websites/Webtech/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Webtech-%23FFA500?style=for-the-badge&logo=webtrees&logoColor=black&labelColor=white&color=%23FF8C00"></a>
+
+<a href="https://twomat.github.io/Websites/The%20Verge/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/The_Verge%20-%20%235F9EA0?style=for-the-badge&logo=verdaccio&logoColor=black&labelColor=white&color=%23FF4500"></a>
+
+<a href="https://twomat.github.io/Websites/Techno%20-%20Web/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Techno--Web-%235F9EA0?style=for-the-badge&logo=telegraph&logoColor=black&labelColor=white&color=%235F9EA0"></a>
+
+<a href="https://twomat.github.io/Websites/Camera%20World">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Camera_World%20-%20%235F9EA0?style=for-the-badge&logo=circle&logoColor=black&labelColor=white&color=%23000080"></a>
+
+
+
+
   <div id="badges">
   
   <a href="https://spb.hh.ru/resume/843361b2ff0e5741ec0039ed1f32334a55534d">
@@ -23,19 +40,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
- ### All websites can be accessed via these links:
-
-<a href="https://twomat.github.io/Websites/Webtech/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Webtech-%23FFA500?style=for-the-badge&logo=webtrees&logoColor=black&labelColor=white&color=%23FF8C00"></a>
-
-<a href="https://twomat.github.io/Websites/The%20Verge/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/The_Verge%20-%20%235F9EA0?style=for-the-badge&logo=verdaccio&logoColor=black&labelColor=white&color=%23FF4500"></a>
-
-<a href="https://twomat.github.io/Websites/Techno%20-%20Web/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Techno--Web-%235F9EA0?style=for-the-badge&logo=telegraph&logoColor=black&labelColor=white&color=%235F9EA0"></a>
-
-<a href="https://twomat.github.io/Websites/Camera%20World">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Camera_World%20-%20%235F9EA0?style=for-the-badge&logo=circle&logoColor=black&labelColor=white&color=%23000080"></a>
+ 
 
  ---
  ### :hammer_and_wrench: Languages:
