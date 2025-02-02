@@ -1,0 +1,389 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.inner {
+    width: 899px;
+    margin: 0 auto;
+  }
+
+  header {
+    font-size: 0;
+  }
+
+  section.menu {
+    background-color: #bec3c6;
+  }
+
+  section.photodiary {
+    font-size: 0;
+  }
+
+  section.top_songs {
+    font-size: 0;
+  }
+
+  section.newsletter {
+    background-color: #f0f0f0;
+  }
+
+  section.two_posts {
+    font-size: 0;
+  }
+
+  footer {
+    background-color: #f0f0f0;
+    font-size: 0;
+  }
+
+  .logo {
+    display: inline-block;
+    padding-top: 21px;
+    padding-bottom: 34px;
+  }
+
+  .title {
+    display: inline-block;
+    font-size: 18px;
+    font-family: 'Inconsolata';
+    letter-spacing: 0.2em;
+    vertical-align: top;
+    margin: 0px 140px 0px 28px;
+    padding-top: 30px;
+    padding-bottom: 34px;
+  }
+
+  .number {
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 119px;
+    padding-top: 35px;
+    padding-bottom: 34px;
+  }
+
+  .number ul {
+    list-style: none;
+  }
+
+  .number li {
+    font-size: 14px;
+    font-weight: bold;
+    color: #444444;
+    display: inline;
+  }
+
+  .menu_list a {
+    text-decoration: none;
+    color: white;
+  }
+
+  .number1 {
+    margin-left: 50px;
+  }
+
+  .number2 {
+    margin-left: 27px;
+  }
+  
+  .menu_list {
+    list-style: none;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 5px;
+    padding-bottom: 3px;
+  }
+
+  .list {
+    margin-left: 104px;
+  }
+
+  .menu_list li {
+    display: inline;
+  }
+
+  .li_2 {
+    margin-left: 112px;
+  }
+
+  .li_3 {
+    margin-left: 109px;
+  }
+
+  .li_4 {
+    margin-left: 109px;
+  }
+
+  .li_5 {
+    margin-left: 104px;
+  }
+
+  .textbox {
+    background-color: #525e5a;
+    width: 347px;
+    color: white;
+    padding: 49px 21px 116px 19px;
+    margin: 42px 10px 105px 0px;
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  .textbox h3 {
+    font-size: 14px;
+    font-weight: normal;
+    margin-bottom: 20px;
+    margin-left: 7px;
+  }
+
+  .textbox h1 {
+    font-size: 36px;
+    font-weight: normal;
+    margin-bottom: 32px;
+    margin-left: 6px;
+  }
+
+  .textbox p {
+    font-size: 14px;
+    line-height: 24px;
+    text-indent: 30px;
+  }
+
+  .forest {
+    display: inline-block;
+    margin-top: 40px;
+  }
+
+  .middle_post {
+    display: inline-block;
+    width: 443px;
+    vertical-align: top;
+    margin: 15px 35px 0px 0px;
+    font-size: 0;
+    margin-bottom: 115px;
+  }
+
+  .middle_post h3 {
+    font-size: 12px;
+    font-weight: normal;
+    color: #b4ad9e;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 12px;
+  }
+
+  .middle_post h1 {
+    font-size: 30px;
+    color: #626262;
+    font-weight: normal;
+    margin-bottom: 30px;
+  }
+
+  .middle_post p {
+    font-size: 14px;
+    color: #626262;
+    line-height: 24px;
+    text-indent: 20px;
+  }
+
+  .signup {
+    padding-top: 50px;
+    padding-bottom: 58px;
+  }
+
+  .signup h1 {
+    font-size: 30px;
+    color: #333333;
+    font-weight: normal;
+    text-align: center;
+    margin-top: 26px;
+    margin-bottom: 36px;
+    letter-spacing: 0.025em;
+  }
+
+  .signup p {
+    font-size: 14px;
+    color: #626262;
+    text-align: center;
+    line-height: 24px;
+  }
+
+
+  .empty {
+    display: inline-block;
+    width: 635px;
+  }
+
+  .details {
+    display: inline-block;
+    background-color: white;
+    padding: 7px 55px;
+    margin-top: 67px;
+  }
+
+  .details a {
+    font-size: 18px;
+    text-decoration: none;
+    color: #626262;
+  }
+
+  .left_post {
+    display: inline-block;
+    padding-top: 106px;
+    width: 420px;
+    margin-right: 30px;
+    margin-bottom: 147px;
+  }
+
+  .left_post h1 {
+    font-size: 30px;
+    color: #626262;
+    font-weight: normal;
+    margin-bottom: 28px;
+    text-align: center;
+  }
+
+  .empty2 {
+    display: inline-block;
+    width: 330px;
+  }
+
+  .lifestyle {
+    display: inline-block;
+  }
+
+  .photo {
+    display: block;
+  }
+
+  .left_post h3 {
+    font-size: 14px;
+    font-weight: normal;
+    color: #b4ad9e;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 16px;
+    margin-bottom: 13px;
+  }
+
+  .left_post p {
+    font-size: 14px;
+    line-height: 24px;
+    color: #626262;
+  }
+
+  .right_post {
+    display: inline-block;
+    padding-top: 106px;
+    margin-left: 30px;
+    vertical-align: top;
+    width: 419px;
+  }
+
+  .right_post h1 {
+    font-size: 30px;
+    color: #626262;
+    font-weight: normal;
+    margin-bottom: 28px;
+    text-align: center;
+  }
+
+  .right_post h3 {
+    font-size: 14px;
+    font-weight: normal;
+    color: #b4ad9e;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 16px;
+    margin-bottom: 13px;
+  }
+
+  .empty3 {
+    display: inline-block;
+    width: 312px;
+  }
+
+  .right_post p {
+    font-size: 14px;
+    line-height: 24px;
+    color: #626262;
+  }
+
+  .textblock h1 {
+    font-size: 30px;
+    font-weight: normal;
+    color: #626262;
+    margin-bottom: 26px;
+  }
+
+  .textblock p {
+    font-size: 14px;
+    color: #626262;
+    line-height: 24px;
+    margin-bottom: 95px;
+  }
+
+    footer p {
+    font-size: 14px;
+  }
+
+  .left_footer {
+    display: inline-block;
+    margin-right: 130px;
+    vertical-align: top;
+    padding-top: 40px;
+    padding-bottom: 32px;
+  }
+
+  .icons {
+    display: inline-block;
+    margin-right: 140px;
+    margin-left: 128px;
+    padding-top: 40px;
+    padding-bottom: 32px;
+  }
+
+  footer a {
+    text-decoration: none;
+    color: #626262;
+  }
+
+  .icons a {
+    display: inline-block;
+    background-image: url("images/sprite.png");
+    background-repeat: no-repeat;
+    width: 26px;
+    height: 26px;
+}
+
+.facebook {
+  background-position: 0px 0px;
+  margin-right: 64px;
+}
+
+.facebook:hover {
+  background-position: 0px -36px;
+}
+
+.twitter {
+  background-position: -40px 0px;
+  margin-right: 50px;
+}
+
+.twitter:hover {
+  background-position: -40px -35px;
+}
+
+.instagram {
+  background-position: -74px 0px;
+}
+
+.instagram:hover {
+  background-position: -74px -35px;
+}
+
+.right_footer {
+  display: inline-block;
+  margin-left: 144px;
+  vertical-align: top;
+  padding-top: 40px;
+  padding-bottom: 32px;
+}
