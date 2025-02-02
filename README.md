@@ -2,7 +2,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZhend1OTMyZzNndHUyNzFhcnhkZ253cTlsdHhuajZnMjUyZWViaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jnE30eFmv6DvXUHUOs/giphy.gif"/>
 
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="[your-linkedin-URL](https://linkedin.com/in/alexey-smirnov-73578034a)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
