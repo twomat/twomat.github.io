@@ -14,11 +14,12 @@
 
 <a href="https://twomat.github.io/Websites/Camera%20World">
     <img alt="Static Badge" src="https://img.shields.io/badge/Camera_World%20-%20%235F9EA0?style=for-the-badge&logo=circle&logoColor=black&labelColor=white&color=%23000080"></a>
+</div>
 
+<div id="body">
+  
 
-
-
-  <div id="badges">
+  <div id="badges" align="center">
   
   <a href="https://spb.hh.ru/resume/843361b2ff0e5741ec0039ed1f32334a55534d">
     <img alt="Static Badge" src="https://img.shields.io/badge/hh.ru%20-%20red?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
@@ -28,10 +29,8 @@
     
   <a href="https://linkedin.com/in/alexey-smirnov-73578034a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-</div>
+  </div>
 
-<div>
-</div>
 ---
 ### :man_technologist: About Me :
 - :telescope: I’m a as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -46,3 +45,4 @@
  ### :hammer_and_wrench: Languages:
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  </div>
