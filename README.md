@@ -31,6 +31,10 @@ All websites can be accessed via these links:
     <img alt="Static Badge" src="https://img.shields.io/badge/Webtech%20-%20black?style=for-the-badge&logo=webtrees&logoColor=black&labelColor=%23FFA500">
 </a>
 
+<a href="https://twomat.github.io/Websites/Webtech/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/The_Verge%20-%20%23FF8C00?style=for-the-badge&logo=verdaccio&labelColor=%23000000&color=%23FF4500">
+</a>
+
 1) https://twomat.github.io/Websites/Webtech/
 2) https://twomat.github.io/Websites/The%20Verge/
 3) https://twomat.github.io/Websites/Techno%20-%20Web/
