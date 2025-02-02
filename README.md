@@ -7,8 +7,8 @@
   </a>
     
   <a href="https://career.habr.com/alexgonemad">
-    <img alt="Static Badge" src="https://img.shields.io/badge/%D0%A5%D0%B0%D0%B1%D1%80_%D0%9A%D0%B0%D1%80%D1%8C%D0%B5%D1%80%D0%B0%20-%20%235F9EA0?style=for-the-badge&logo=readdotcv&logoColor=white">
-></a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/%D0%A5%D0%B0%D0%B1%D1%80_%D0%9A%D0%B0%D1%80%D1%8C%D0%B5%D1%80%D0%B0%20-%20%235F9EA0?style=for-the-badge&logo=readdotcv&logoColor=white"><--
+--></a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
