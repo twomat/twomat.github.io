@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Alexey</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
----
----
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZhend1OTMyZzNndHUyNzFhcnhkZ253cTlsdHhuajZnMjUyZWViaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jnE30eFmv6DvXUHUOs/giphy.gif"/>
 
@@ -28,11 +26,11 @@
 
 ---
 ### :man_technologist: About Me :
-- :man_student:: I'm a fourth year student of Information Security.
+- :man_student:: Information Security Student.
 
-- :orange_book:: Exploring Technical Content Writing and testing.
+- :orange_book:: Exploring Technical Content Writing and Testing.
 
-- :zap: Love making websites.
+- :zap: Love making Websites.
 
 ---
 ### :mailbox: Contact me :
