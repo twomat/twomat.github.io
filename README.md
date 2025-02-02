@@ -27,7 +27,7 @@
 ### :man_technologist: About Me :
 - :telescope: I'm a fourth year student of Information Security.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical Content Writing and testing.
 
 - :zap: Love making websites.
 
