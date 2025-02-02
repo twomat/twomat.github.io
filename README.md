@@ -3,7 +3,7 @@
 
   <div id="badges">
    <a href="https://career.habr.com/alexgonemad">
-    <img alt="Static Badge" src="https://img.shields.io/badge/%D0%A5%D0%B0%D0%B1%D1%80_%D0%9A%D0%B0%D1%80%D1%8C%D0%B5%D1%80%D0%B0%20-%20%235F9EA0?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Webtech-%23FFA500?style=for-the-badge&logo=webtrees&logoColor=black&labelColor=white&color=%23FFA500"></a>
 
   <a href="https://spb.hh.ru/resume/843361b2ff0e5741ec0039ed1f32334a55534d">
     <img alt="Static Badge" src="https://img.shields.io/badge/hh.ru%20-%20red?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
