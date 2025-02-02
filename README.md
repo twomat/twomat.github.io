@@ -17,7 +17,6 @@
  
 </div>
 
-
 ---
  ### :hammer_and_wrench: Languages:  
  - <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -25,14 +24,14 @@
 
 ---
 ### :man_technologist: About Me :
-- 🔒: I'm a fourth year student of Information Security.
+- :man_student:: I'm a fourth year student of Information Security.
 
-- 📖: Exploring Technical Content Writing and testing.
+- :orange_book:: Exploring Technical Content Writing and testing.
 
 - :zap: Love making websites.
 
 ---
-### 📬 Contact me :
+### :mailbox: Contact me :
  <div id="badges" align="center">
   <a href="https://spb.hh.ru/resume/843361b2ff0e5741ec0039ed1f32334a55534d">
     <img alt="Static Badge" src="https://img.shields.io/badge/hh.ru%20-%20red?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
