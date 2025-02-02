@@ -35,9 +35,8 @@
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 ---
-### :man_technologist: About Me :
+### 📬: Contact me :
  <div id="badges" align="center">
-### :man_technologist: About Me :   
   <a href="https://spb.hh.ru/resume/843361b2ff0e5741ec0039ed1f32334a55534d">
     <img alt="Static Badge" src="https://img.shields.io/badge/hh.ru%20-%20red?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
 
