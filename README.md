@@ -34,7 +34,7 @@ All websites can be accessed via these links:
     <img alt="Static Badge" src="https://img.shields.io/badge/The_Verge%20-%20%23FF8C00?style=for-the-badge&logo=verdaccio&labelColor=%23000000&color=%23FF4500"></a>
 
 <a href="https://twomat.github.io/Websites/Techno%20-%20Web/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/The_Verge%20-%20%23FF8C00?style=for-the-badge&logo=verdaccio&labelColor=%23000000&color=%23FF4500"></a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Techno_Web%20-%20%235F9EA0?style=for-the-badge&logo=toml&logoColor=black&labelColor=%23FFFFFF%09&color=%235F9EA0"></a>
     
 4) https://twomat.github.io/Websites/Camera%20World
 
