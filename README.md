@@ -1,8 +1,7 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZhend1OTMyZzNndHUyNzFhcnhkZ253cTlsdHhuajZnMjUyZWViaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jnE30eFmv6DvXUHUOs/giphy.gif"/>
-</div>
 
-<div id="badges">
+  <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,6 +12,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+</div>
+
+
 
 All websites can be accessed via these links:
 
