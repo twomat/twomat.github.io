@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZhend1OTMyZzNndHUyNzFhcnhkZ253cTlsdHhuajZnMjUyZWViaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jnE30eFmv6DvXUHUOs/giphy.gif"/>
 
-### All websites can be accessed via these links:
+### All websites can be accessed via these links :
 
 <a href="https://twomat.github.io/Websites/Webtech/">
     <img alt="Static Badge" src="https://img.shields.io/badge/webtech-white?style=for-the-badge&logo=webtrees&logoColor=yellow"></a>
